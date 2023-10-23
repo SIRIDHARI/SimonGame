@@ -29,14 +29,14 @@ HTML
 CSS
 JavaScript
 jQuery
-Game Logic
+# Game Logic
 The game is implemented using JavaScript and jQuery. The core functionality includes:
 
 Generating a random sequence of colors.
 Tracking the user's input and comparing it with the generated sequence.
 Playing sounds and animations for a more interactive experience.
 Keeping track of the level and the game state.
-Credits
+# Credits
 The game design and concept are inspired by the classic Simon game.
 # Author
 K.SIRI DHARI
